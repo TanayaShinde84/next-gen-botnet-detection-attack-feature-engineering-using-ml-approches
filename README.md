@@ -1,1 +1,2 @@
-
+The system is designed to analyze network traffic data and extract meaningful features such as packet size, flow duration, protocol usage, and connection behavior. These features are used to train various machine learning models—including Random Forest, SVM, and XGBoost—for identifying malicious botnet patterns with high accuracy.
+The project aims to develop a scalable, intelligent, and real-time capable detection system that can adapt to evolving attack strategies, making it a valuable solution for modern cybersecurity infrastructures.
